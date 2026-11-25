@@ -32,7 +32,7 @@ Python, pandas, scikit-learn, PyTorch, Streamlit.
 
 ## Исходный код и материалы
 
-[DrillSense](https://github.com/Lavrentiy123/projects/tree/main/03_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_Industrial_AI/01_DrillSense_%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5)
+[DrillSense](https://github.com/Lavrentiy123/project-code/tree/main/03_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_Industrial_AI/01_DrillSense_%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5)
 
 В репозитории представлены исследовательская реализация и отдельный упрощённый скрипт; это разные варианты моделирования.
 

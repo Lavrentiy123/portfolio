@@ -32,7 +32,7 @@ Yandex DataLens, SQL, Excel, HTML.
 
 ## Исходный код и материалы
 
-[Bank Marketing](https://github.com/Lavrentiy123/projects/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/05_bank_marketing_datalens)
+[Bank Marketing](https://github.com/Lavrentiy123/project-code/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/05_bank_marketing_datalens)
 
 
 [Все проекты](../README.md)

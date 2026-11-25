@@ -30,6 +30,6 @@ Workflow n8n связывает обработку документов, инд�
 
 ## Исходный код и материалы
 
-[RAG-бот и workflow](https://github.com/Lavrentiy123/projects/tree/main/04_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B8_RAG/04_RAG_%D0%91%D0%BE%D1%82_%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%B0%D0%B7_%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
+[RAG-бот и workflow](https://github.com/Lavrentiy123/project-code/tree/main/04_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B8_RAG/04_RAG_%D0%91%D0%BE%D1%82_%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%B0%D0%B7_%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 
 Открытые материалы RAG-прототипа. Подключение документального поиска через MCP — отдельная работа; единая промышленная поставка не заявляется.

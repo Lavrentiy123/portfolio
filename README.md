@@ -1,10 +1,10 @@
-# Лаврентий Ямпуров
+# Портфолио Лаврентия Ямпурова
 
 **AI Product Manager | AI и цифровые продукты**
 
 Перевожу бизнес-задачи в требования, данные и работающие программы. Разрабатываю продукты с языковыми моделями, аналитические инструменты и автоматизацию процессов. Опыт: промышленность, стратегическая аналитика, транспорт, логистика и продуктовые прототипы.
 
-[Telegram](https://t.me/Lavr02) · [Email](mailto:ylv30072002@mail.ru) · [GitHub](https://github.com/Lavrentiy123)
+[Telegram](https://t.me/Lavr02) · [Email](mailto:ylv30072002@mail.ru) · [GitHub](https://github.com/Lavrentiy123) · [Открытый код](https://github.com/Lavrentiy123/project-code)
 
 [Проекты](#проекты) · [Компетенции](#компетенции) · [Документация](#документация)
 
@@ -32,7 +32,7 @@
 
 [Описание, возможности и архитектура](docs/02-strategy-pipeline.md)
 
-### 3. G2 — помощник выбора стратегического документа
+### 3. Стратегический помощник — выбор документа развития
 
 Помощник выбора концепции, стратегии или программы развития по методологии заказчика.
 
@@ -70,7 +70,7 @@
 
 **Результат:** Подготовил код моделирования и сценарии сравнения технологических режимов.
 
-[Описание, возможности и архитектура](docs/06-drillsense.md) · [Код](https://github.com/Lavrentiy123/projects/tree/main/03_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_Industrial_AI/01_DrillSense_%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5)
+[Описание, возможности и архитектура](docs/06-drillsense.md) · [Код](https://github.com/Lavrentiy123/project-code/tree/main/03_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B_Industrial_AI/01_DrillSense_%D0%91%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 7. Поиск по нефтегазовой документации — RAG и MCP
 
@@ -80,7 +80,7 @@
 
 **Результат:** Подготовил workflow RAG-бота; отдельно работал с подключением документального поиска через MCP.
 
-[Описание, возможности и архитектура](docs/07-rag-mcp.md) · [RAG-бот и workflow](https://github.com/Lavrentiy123/projects/tree/main/04_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B8_RAG/04_RAG_%D0%91%D0%BE%D1%82_%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%B0%D0%B7_%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
+[Описание, возможности и архитектура](docs/07-rag-mcp.md) · [RAG-бот и workflow](https://github.com/Lavrentiy123/project-code/tree/main/04_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B_%D0%B8_RAG/04_RAG_%D0%91%D0%BE%D1%82_%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%B3%D0%B0%D0%B7_%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 
 ### 8. Contract Risk Checker — проверка структурированных условий договора
 
@@ -90,7 +90,7 @@
 
 **Результат:** Реализовал валидацию JSON, расчёт балла и Markdown-отчёт с замечаниями.
 
-[Описание, возможности и архитектура](docs/08-contract-risk-checker.md) · [Код](https://github.com/Lavrentiy123/projects/tree/main/05_%D1%80%D0%B8%D1%81%D0%BA_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%B8_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0/02_contract_risk_checker)
+[Описание, возможности и архитектура](docs/08-contract-risk-checker.md) · [Код](https://github.com/Lavrentiy123/project-code/tree/main/05_%D1%80%D0%B8%D1%81%D0%BA_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%B8_%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D0%BB%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0/02_contract_risk_checker)
 
 ### 9. StockFlow — планирование запасов и закупок
 
@@ -100,7 +100,7 @@
 
 **Результат:** Подготовлены проектные материалы и расчётный пример потребности на горизонт 14 дней.
 
-[Описание, возможности и архитектура](docs/09-stockflow.md) · [Код](https://github.com/Lavrentiy123/projects/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/02_stockflow_demand_forecast)
+[Описание, возможности и архитектура](docs/09-stockflow.md) · [Код](https://github.com/Lavrentiy123/project-code/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/02_stockflow_demand_forecast)
 
 ### 10. Bank Marketing — аналитика маркетинговых кампаний
 
@@ -110,7 +110,7 @@
 
 **Результат:** Подготовил структуру показателей, дашборд и аналитический отчёт.
 
-[Описание, возможности и архитектура](docs/10-bank-marketing.md) · [Код](https://github.com/Lavrentiy123/projects/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/05_bank_marketing_datalens)
+[Описание, возможности и архитектура](docs/10-bank-marketing.md) · [Код](https://github.com/Lavrentiy123/project-code/tree/main/06_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B_%D0%B8_ML/05_bank_marketing_datalens)
 
 ## Компетенции
 
